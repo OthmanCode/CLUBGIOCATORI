@@ -1,0 +1,5 @@
+dati accesso
+
+Operatore: billgates@gestioneguasti.it, password = psw123
+
+Manutentore: jeffbezos@gestioneguasti.it, password = psw123

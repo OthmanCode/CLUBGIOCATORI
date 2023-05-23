@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+.login-form {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px 35px;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 12px;
+  }
+  
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  th,td,tr {
+    border: 1px solid black;
+  }
+
+.manutentore-element {
+  border: 1px solid black;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.guasto-element {
+  border: 2px solid black;
+  padding: 20px;
+  margin: 10px 0;
+}
+  
